@@ -438,12 +438,12 @@
 - [ ] Noter les dates importantes dans l’agenda et commenter si nécessaire
     - Photos de classe le 09/09 ;
     - Réunion d’information aux parents :  le 17/09 en TGT à 18h ;
-    - Réunions individuelles (TGT rdv avec PR si besoin ou demande) ;
+    - Réunions individuelles (TGT rdv avec PR si besoin après 06/10 ou demande spécifique) ;
     - Election des délégués : semaine du 6 octobre ;
     - Fin du 1er trimestre : le 21/11 ;  
-    - Conseils de classe du 1er trimestre : semaine du 02/12 ;
     
-- [ ] Fiche de renseignements pour l'orientation -> ==**A réaliser** au format `Markdown` dans votre classeur numérique et **lien à partager** par [mail]==
+    
+- [ ] Fiche de renseignements pour l'orientation -> ==**A réaliser** au format `Markdown` dans [votre classeur numérique](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank}  et **lien à partager** par [mail]==
 
 - [ ] [PIX](https://pix.fr/){target=_blank} : Nouvelles modalités pour le bac...
 
