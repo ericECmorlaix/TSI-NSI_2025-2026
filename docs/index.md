@@ -273,7 +273,7 @@
 
 === "CONTENU DE SÉANCE"
     
-    - Activités par spécialité [SI](https://ericecmorlaix.github.io/TSI_2024-2025/){target=_blank} ou [NSI](https://ericecmorlaix.github.io/TNSI_2024-2025/){target=_blank}.
+    - Activités par spécialité [SI](https://ericecmorlaix.github.io/TSI_2025-2026/){target=_blank} ou [NSI](https://ericecmorlaix.github.io/TNSI_2025-2026/){target=_blank}.
 
 === "TRAVAIL À FAIRE"
 
@@ -295,11 +295,11 @@
     
     - **Découvrir** le fonctionnement des réseaux informatiques par la pratique :
         
-        - Finalisation de [Network-TP2](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2024-2025/CR/Network-Un_BN_pour_la_communication_en_reseau-TP2.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI-NSI_2024-2025/CR/Network-Un_BN_pour_la_communication_en_reseau-TP2.ipynb){ .md-button .md-button--primary } [Capytale c91a-3900713](https://capytale2.ac-paris.fr/web/c/c91a-3900713){target=_blank .md-button .md-button--primary } ;
+        - Finalisation de [Network-TP2](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP2.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP2.ipynb){ .md-button .md-button--primary } [Capytale c91a-3900713](https://capytale2.ac-paris.fr/web/c/c91a-3900713){target=_blank .md-button .md-button--primary } ;
 
     - Projets, objectif ["Fête de la science"](./fete_de_la_science) le 7 octobre... -> ==**Compléter** votre TODO liste, **prioriser** les tâches et **vérifier** leur faisabilité technique.==
       
-    - Activités par spécialité [SI](https://ericecmorlaix.github.io/TSI_2024-2025/){target=_blank} ou [NSI](https://ericecmorlaix.github.io/TNSI_2024-2025/){target=_blank}.
+    - Activités par spécialité [SI](https://ericecmorlaix.github.io/TSI_2025-2026/){target=_blank} ou [NSI](https://ericecmorlaix.github.io/TNSI_2025-2026/){target=_blank}.
 
 === "TRAVAIL À FAIRE"
 
@@ -316,13 +316,13 @@
 === "CONTENU DE SÉANCE"
     
     - **Découvrir** le fonctionnement des réseaux informatiques par la pratique :
-        - Retour sur [Network-TP1](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2024-2025/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI-NSI_2024-2025/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){ .md-button .md-button--primary } [Capytale e7c0-3876579](https://capytale2.ac-paris.fr/web/c/e7c0-3876579){target=_blank .md-button .md-button--primary } ;
-        - Mise en oeuvre de [Network-TP2](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2024-2025/CR/Network-Un_BN_pour_la_communication_en_reseau-TP2.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI-NSI_2024-2025/CR/Network-Un_BN_pour_la_communication_en_reseau-TP2.ipynb){ .md-button .md-button--primary } [Capytale c91a-3900713](https://capytale2.ac-paris.fr/web/c/c91a-3900713){target=_blank .md-button .md-button--primary } ;
+        - Retour sur [Network-TP1](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){ .md-button .md-button--primary } [Capytale e7c0-3876579](https://capytale2.ac-paris.fr/web/c/e7c0-3876579){target=_blank .md-button .md-button--primary } ;
+        - Mise en oeuvre de [Network-TP2](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP2.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP2.ipynb){ .md-button .md-button--primary } [Capytale c91a-3900713](https://capytale2.ac-paris.fr/web/c/c91a-3900713){target=_blank .md-button .md-button--primary } ;
 
 
     - Projets, objectif ["Fête de la science"](./fete_de_la_science) le 7 octobre... -> ==**Compléter** votre TODO liste, **prioriser** les tâches et **vérifier** leur faisabilité technique.==
       
-    - Activités par spécialité [SI](https://ericecmorlaix.github.io/TSI_2024-2025/){target=_blank} ou [NSI](https://ericecmorlaix.github.io/TNSI_2024-2025/){target=_blank}.
+    - Activités par spécialité [SI](https://ericecmorlaix.github.io/TSI_2025-2026/){target=_blank} ou [NSI](https://ericecmorlaix.github.io/TNSI_2025-2026/){target=_blank}.
 
 === "TRAVAIL À FAIRE"
 
@@ -333,13 +333,11 @@
 
 === "CONTENU DE SÉANCE"
     
-    - **Découvrir** le fonctionnement des réseaux informatiques par la pratique : [Network-TP1](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2024-2025/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){target=_blank} ;
-
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI-NSI_2024-2025/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){ .md-button .md-button--primary } [Capytale e7c0-3876579](https://capytale2.ac-paris.fr/web/c/e7c0-3876579){target=_blank .md-button .md-button--primary } 
+     
 
     - Projets, objectif ["Fête de la science"](./fete_de_la_science) le 7 octobre... -> ==**Compléter** votre TODO liste, **prioriser** les tâches et **vérifier** leur faisabilité technique.==
       
-    - Activités par spécialité [SI](https://ericecmorlaix.github.io/TSI_2024-2025/){target=_blank} ou [NSI](https://ericecmorlaix.github.io/TNSI_2024-2025/){target=_blank}.
+    - Activités par spécialité [SI](https://ericecmorlaix.github.io/TSI_2025-2026/){target=_blank} ou [NSI](https://ericecmorlaix.github.io/TNSI_2025-2026/){target=_blank}.
 
 === "TRAVAIL À FAIRE"
 
@@ -365,28 +363,31 @@
         > - **Faire** des recherches documentaires afin de **préciser** vos sujets respectifs ;
         > - **Initier** la production de votre médiation scientifique à destination de collégiens de quatrième en listant vos tâches dans une TODO liste en mode [agile](./fete_de_la_science/#demarche)...
 
-    - Activités par spécialité [SI](https://ericecmorlaix.github.io/TSI_2024-2025/){target=_blank} ou [NSI](https://ericecmorlaix.github.io/TNSI_2024-2025/){target=_blank}.
+    - Activités par spécialité [SI](https://ericecmorlaix.github.io/TSI_2025-2026/){target=_blank} ou [NSI](https://ericecmorlaix.github.io/TNSI_2025-2026/){target=_blank}.
 
 === "TRAVAIL À FAIRE"
 
     - Poursuivre les travaux engagés...
 
-
+-->
 ***
+
 ## Séance SI-NSI du 04/09
 
 === "CONTENU DE SÉANCE"
 
     - Présentation du fonctionnement...
 
-    - Projets, objectif ["Fête de la science"](./fete_de_la_science) le 7 octobre... -> ==Réflexion collective en mode "brainstorming" pour trouver des pistes de médiation scientifique de préférence en lien avec le thème retenu==
+    - Projets, objectif ["Fête de la science"](./fete_de_la_science) le 13 octobre... -> ==Réflexion collective en mode "brainstorming" pour trouver des pistes de médiation scientifique de préférence en lien avec le thème retenu==
 
-    - Activités par spécialité [SI](https://ericecmorlaix.github.io/TSI_2024-2025/){target=_blank} ou [NSI](https://ericecmorlaix.github.io/TNSI_2024-2025/){target=_blank}.
+    - **Découvrir** le fonctionnement des réseaux informatiques par la pratique : [Network-TP1](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){target=_blank} ;
+
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){ .md-button .md-button--primary } [Capytale n° `e30a-6969721`](https://capytale2.ac-paris.fr/web/c/e30a-6969721){target=_blank .md-button .md-button--primary }
 
 === "TRAVAIL À FAIRE"
 
     - Poursuivre les travaux engagés...
--->
+
 
 ## Vie de classe du 02/09
 
