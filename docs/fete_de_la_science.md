@@ -13,19 +13,21 @@ On va essayer de coller au thème retenu pour la Fête de la science : [**Les mu
 
 ## Projets envisagés
 
+<!-- - ...
 - ...
 - ...
-- ...
-- ...
+- ... -->
 
-<!-- Une première scéance de brainstorming a dégagé quatre domaines à étudier :
+Une première scéance de brainstorming a dégagé quatre domaines à étudier correspondant à différentes formes d'**Intelligences Artificielles** :
 
-- l'élévation du niveau de la mer (Ambre, Ivan et Anaël) ;
-- la pollution plastique des océans (Noah, Rywan et Théophile) ;
-- les communications en mer (Louise, Loïc et Nathan);
-- les énergies en mer (Louis, Eliott et Pierre-Alain)...
+- l'intelligence mécanique (Elia, Killian, + Prof) : c'est celle des algorithmes ou "procédures mécaniques" que l'on embarque dans les rouages d'appareils simples (Boulier, Règle à calculer, Odomètre, Pascaline, Horloge (astronomique), Automates, Enigma, ...) ou de machines plus ou moins automatiques ([Machine de Turing](https://interstices.info/comment-fonctionne-une-machine-de-turing/){target=_blank}, Machine à Commande Numérique CNC et Imprimante 3D, ...), [binaire et logique booléenne, séquence d'instructions, séquenceur, automatismes, engrenages, ordinateur, calculabilité et décidabilité, ... ] ;
+- l'intelligence robotique (Augustin, Baptiste, Rémy) : c'est celle que l'on embarque avec grand renfort de capteurs (NFC, caméra Huskylens, ...) et moteurs (servomoteurs) dans les robots (Cozmo, Lunettes, ...) pour les rendre de plus en plus colaboratifs et autonomes, [] ;
+- l'intelligence domotique (Oscar, Luna, Yann) : c'est celle des solutions techniques architecturales et fonctionnelles de nos foyers d'habitation intégrant de plus en plus d'objets connectés (IOT), [] ;
+- l'intelligence générative (Elouan, Adam, Gabriel) : c'est celle dont tout le monde parle sous le nom de ChatGPT, mais est-ce le seul moteur/assistant IA disponible ? Qu'est-ce que l'ingénierie de prompt ? Peut-on concevoir son IA personnelle ? [Agentic IA, ChatBot, LLM, Gemini, Siri, Jarvis, ...] ;
 
-==Votre première mission de projet (sprint) sera donc de construire une médiation scientifique s'appuyant sur les sujets de vos projets respectifs afin de les présenter à des collégiens de quatrième...== -->
+> Peut-on affirmer que derrière toutes ces Intelligences Artificielles se cache en réalité toujours de l'intelligence humaine ?
+
+==Votre première mission de projet (sprint) sera donc de construire une médiation scientifique s'appuyant sur les sujets de vos projets respectifs afin de les présenter à des collégiens de quatrième...==
 
 ## Démarche
 
