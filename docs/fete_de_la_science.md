@@ -22,8 +22,8 @@ Une première scéance de brainstorming a dégagé quatre domaines à étudier c
 
 - l'intelligence mécanique (Elia, Killian, + Prof) : c'est celle des algorithmes ou "procédures mécaniques" que l'on embarque dans les rouages d'appareils simples (Boulier, Règle à calculer, Odomètre, Pascaline, Horloge (astronomique), Automates, Enigma, ...) ou de machines plus ou moins automatiques ([Machine de Turing](https://interstices.info/comment-fonctionne-une-machine-de-turing/){target=_blank}, Machine à Commande Numérique CNC et Imprimante 3D, ...), [binaire et logique booléenne, séquence d'instructions, séquenceur, automatismes, engrenages, ordinateur, calculabilité et décidabilité, ... ] ;
 - l'intelligence robotique (Augustin, Baptiste, Rémy) : c'est celle que l'on embarque avec grand renfort de capteurs (NFC, caméra Huskylens, ...) et moteurs (servomoteurs) dans les robots (Cozmo, Lunettes, ...) pour les rendre de plus en plus colaboratifs et autonomes, [] ;
-- l'intelligence domotique (Oscar, Luna, Yann) : c'est celle des solutions techniques architecturales et fonctionnelles de nos foyers d'habitation intégrant de plus en plus d'objets connectés (IOT), [] ;
-- l'intelligence générative (Elouan, Adam, Gabriel) : c'est celle dont tout le monde parle sous le nom de ChatGPT, mais est-ce le seul moteur/assistant IA disponible ? Qu'est-ce que l'ingénierie de prompt ? Peut-on concevoir son IA personnelle ? [Agentic IA, ChatBot, LLM, Gemini, Siri, Jarvis, ...] ;
+- l'intelligence domotique (Elouan, Luna, Yann) : c'est celle des solutions techniques architecturales et fonctionnelles de nos foyers d'habitation intégrant de plus en plus d'objets connectés (IOT), [] ;
+- l'intelligence générative (Oscar, Adam, Gabriel) : c'est celle dont tout le monde parle sous le nom de ChatGPT, mais est-ce le seul moteur/assistant IA disponible ? Qu'est-ce que l'ingénierie de prompt ? Peut-on concevoir son IA personnelle ? [Agentic IA, ChatBot, LLM, Gemini, Siri, Jarvis, ...] ;
 
 > Peut-on affirmer que derrière toutes ces Intelligences Artificielles se cache en réalité toujours de l'intelligence humaine ?
 
