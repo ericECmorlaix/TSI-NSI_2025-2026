@@ -373,6 +373,14 @@
 
     - Poursuivre les travaux engagés...
 
+***
+
+## Vie de classe du 08/09
+
+- **Rendre** une attestation de recensement ou de JDC ;
+-  **Réaliser** une fiche de renseignements pour l'orientation au format `Markdown` dans [votre classeur numérique](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} et **partager** un lien vers ce document par [mail] ;
+- [Orientation](./orientation) ;
+- [PIX](https://pix.fr/){target=_blank}.
 
 ***
 
