@@ -342,9 +342,9 @@
 === "TRAVAIL À FAIRE"
 
     - Poursuivre les travaux engagés...
-
+-->
 ***
-## Séance SI-NSI du 05/09
+## Séances SI-NSI des 09 et 11/09
 
 === "CONTENU DE SÉANCE"
 
@@ -352,24 +352,28 @@
     
     ???+ abstract ""
         
-        Organisés en équipages de projet autour des quatre domaines d'études résultants de votre séance de brainstorming :
-
-        - l'élévation du niveau de la mer (Ambre, Ivan et Anaël) ;
-        - la pollution plastique des océans (Noah, Rywan et Théophile) ;
-        - les communications en mer (Louise, Loïc et Nathan);
-        - les énergies en mer (Louis, Eliott et Pierre-Alain)...
+        Suite à votre séance de brainstorming, organisés en équipages de projet autour de quatre domaines d'études correspondants à différentes formes d'**Intelligences Artificielles** :
         
+            - l'intelligence mécanique (Elia, Killian, + Prof) ;
+            - l'intelligence robotique (Augustin, Baptiste, Rémy) ;
+            - l'intelligence domotique (Elouan, Luna, Yann) ;
+            - l'intelligence générative (Oscar, Adam, Gabriel) ;
+              
         > - **Créer** un dépot partagé pour [votre projet sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} ;
         > - **Faire** des recherches documentaires afin de **préciser** vos sujets respectifs ;
         > - **Initier** la production de votre médiation scientifique à destination de collégiens de quatrième en listant vos tâches dans une TODO liste en mode [agile](./fete_de_la_science/#demarche)...
+        >
+        > Et **Répondre** à la question transversale : *Peut-on affirmer que derrière toutes ces Intelligences Artificielles se cache en réalité toujours de l'intelligence humaine ?*
 
-    - Activités par spécialité [SI](https://ericecmorlaix.github.io/TSI_2025-2026/){target=_blank} ou [NSI](https://ericecmorlaix.github.io/TNSI_2025-2026/){target=_blank}.
+    - **Découvrir** le fonctionnement des réseaux informatiques par la pratique : [Network-TP1](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){target=_blank} ;
+
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){ .md-button .md-button--primary } [Capytale n° `e30a-6969721`](https://capytale2.ac-paris.fr/web/c/e30a-6969721){target=_blank .md-button .md-button--primary }
 
 === "TRAVAIL À FAIRE"
 
     - Poursuivre les travaux engagés...
 
--->
+
 ***
 
 ## Séance SI-NSI du 04/09
