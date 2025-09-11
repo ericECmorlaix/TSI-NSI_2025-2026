@@ -54,10 +54,39 @@ Ce projet sera donc aussi l'occasion de redécouvrir et d'expérimenter les rudi
 Développer petit à petit de façon modulaire, par fonctionnalité...
 
 
+
+
+## Ressources techniques
+
+### Mécanique
+
+- [Machine de Turing](https://interstices.info/comment-fonctionne-une-machine-de-turing/){target=_blank} ;
+
+### Robotique
+
+
+#### Poppy Ergo Jr
+
+- [https://www.poppy-project.org/fr/robots/poppy-ergo-jr/](https://www.poppy-project.org/fr/robots/poppy-ergo-jr/){target=_blank} ;
+
+- [https://github.com/poppy-project/poppy-ergo-jr](https://github.com/poppy-project/poppy-ergo-jr){target=_blank} ;
+
+#### Huskylens
+- wiki.dfrobot [SEN0305_SEN0336](https://wiki.dfrobot.com/HUSKYLENS_V1.0_SKU_SEN0305_SEN0336){target=_blank} + [SEN0336](https://wiki.dfrobot.com/HUSKYLENS_PRO_SKU_SEN0336){target=_blank} ;
+
+### Domotique
+
+#### Home Assistant
+- [Transformez votre maison en un foyer intelligent avec le Raspberry Pi](https://www.raspberrypi-france.fr/transformez-votre-maison-en-un-foyer-intelligent-avec-le-raspberry-pi/){target=_blank} ;
+- [Serveur domotique raspberry pi 4: guide complet pour une maison intelligente](https://www.conseil-local-energie.com/serveur-domotique-raspberry-pi-4-guide-complet-pour-une-maison-intelligente/){target=_blank} ;
+
+### Générative
+
+- [VittaScience](https://fr.vittascience.com/ia/){target=_blank} ;
+
+
+
 <!-- 
-
-## Ressources techniques :
-
 - [diaporama de présentation](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/DOC/diaporama/){target=_blank}
 - [Lego EV3 en MicroPython](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/Lego/EV3/){target=_blank} ;
 - [ESP32 client/serveur en MicroPython](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/ESP/32/){target=_blank} ;
@@ -78,11 +107,7 @@ Développer petit à petit de façon modulaire, par fonctionnalité...
 
 - [https://www.course-en-cours.com/fr/](https://www.course-en-cours.com/fr/){target=_blank}
 
-### Poppy Ergo Jr
 
-- [https://www.poppy-project.org/fr/robots/poppy-ergo-jr/](https://www.poppy-project.org/fr/robots/poppy-ergo-jr/){target=_blank}
-
-- [https://github.com/poppy-project/poppy-ergo-jr](https://github.com/poppy-project/poppy-ergo-jr){target=_blank}
 
 ### Futur bras 6 axes
 
