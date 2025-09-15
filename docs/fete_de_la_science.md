@@ -83,6 +83,8 @@ Développer petit à petit de façon modulaire, par fonctionnalité...
 ### Générative
 
 - [VittaScience](https://fr.vittascience.com/ia/){target=_blank} ;
+- [Exécuter un générateur d'images IA sur ton Raspberry Pi](https://projects.raspberrypi.org/fr-FR/projects/ai-images-on-pi){target=_blank} ;
+- [IA génératives : comment bien les utiliser ?](https://www.info.gouv.fr/actualite/ia-generatives-comment-bien-les-utiliser){target=_blank} ;
 
 
 

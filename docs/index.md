@@ -326,29 +326,31 @@
 
 === "TRAVAIL À FAIRE"
 
-    - Poursuivre les travaux engagés...
-
+    - Poursuivre tous les travaux engagés...
+-->
 ***
-## Séance SI-NSI du 11/09
+## Séances SI-NSI des 16 et 18/09
 
 === "CONTENU DE SÉANCE"
     
-     
+    - **Découvrir** le fonctionnement des réseaux informatiques par la pratique :
+        - Retour sur [Network-TP1](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){ .md-button .md-button--primary } [Capytale e30a-6969721](https://capytale2.ac-paris.fr/web/c/e30a-6969721){target=_blank .md-button .md-button--primary } ;
+        - Mise en oeuvre de [Network-TP2](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP2.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP2.ipynb){ .md-button .md-button--primary } [Capytale c91a-3900713](https://capytale2.ac-paris.fr/web/c/c91a-3900713){target=_blank .md-button .md-button--primary } ; 
 
-    - Projets, objectif ["Fête de la science"](./fete_de_la_science) le 7 octobre... -> ==**Compléter** votre TODO liste, **prioriser** les tâches et **vérifier** leur faisabilité technique.==
-      
-    - Activités par spécialité [SI](https://ericecmorlaix.github.io/TSI_2025-2026/){target=_blank} ou [NSI](https://ericecmorlaix.github.io/TNSI_2025-2026/){target=_blank}.
+    
+    - Projets, objectif ["Fête de la science"](./fete_de_la_science) le 13 octobre... -> ==**Compléter** votre TODO liste, **prioriser** les tâches et **vérifier** leur faisabilité technique.==
+
 
 === "TRAVAIL À FAIRE"
 
-    - Poursuivre les travaux engagés...
--->
+    - Poursuivre tous les travaux engagés...
+
 ***
 ## Séances SI-NSI des 09 et 11/09
 
 === "CONTENU DE SÉANCE"
 
-    - Projets, objectif ["Fête de la science"](./fete_de_la_science) le 7 octobre...
+    - Projets, objectif ["Fête de la science"](./fete_de_la_science) le 13 octobre...
     
     ???+ abstract ""
         
