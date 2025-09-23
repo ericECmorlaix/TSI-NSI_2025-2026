@@ -82,6 +82,8 @@ Développer petit à petit de façon modulaire, par fonctionnalité...
 #### Home Assistant
 - [Transformez votre maison en un foyer intelligent avec le Raspberry Pi](https://www.raspberrypi-france.fr/transformez-votre-maison-en-un-foyer-intelligent-avec-le-raspberry-pi/){target=_blank} ;
 - [Serveur domotique raspberry pi 4: guide complet pour une maison intelligente](https://www.conseil-local-energie.com/serveur-domotique-raspberry-pi-4-guide-complet-pour-une-maison-intelligente/){target=_blank} ;
+- [Domotique – un système facile à installer avec la Rasberry Pi
+](https://www.raspberrypi-france.fr/domotique-systeme-facile-installer/){target=_blank} ;
 
 ### Générative
 
