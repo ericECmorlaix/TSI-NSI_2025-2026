@@ -11,6 +11,11 @@ On va essayer de coller au thème retenu pour la Fête de la science : [**Les mu
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/3Bc6qb3FSb8?si=756_uGFl4FVjByKu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
+## Organisation
+
+![Organisation](./images/organisation.png)
+
+
 ## Projets envisagés
 
 <!-- - ...
@@ -120,3 +125,5 @@ Développer petit à petit de façon modulaire, par fonctionnalité...
 
 - [Onshape - Cinématique bras 6 axes](https://www.youtube.com/playlist?list=PLzeGpFCqKToadNUiOH9iaOi9PymUhzb-M){target=_blank}
 - [Le site du bras 6 axes](https://mkx-3d.github.io/bras-6-axes/){target=_blank} -->
+
+
