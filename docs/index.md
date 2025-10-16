@@ -289,46 +289,32 @@
 - **Faire** la campagne de rentrée sur [PIX avec le code `MDTWKP783`](https://app.pix.fr/campagnes/MDTWKP783){target=_blank} ;
 
 ***
-## Séance SI-NSI des 18 et 19/09
 
-=== "CONTENU DE SÉANCE"
-    
-    - **Découvrir** le fonctionnement des réseaux informatiques par la pratique :
-        
-        - Finalisation de [Network-TP2](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP2.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP2.ipynb){ .md-button .md-button--primary } [Capytale c91a-3900713](https://capytale2.ac-paris.fr/web/c/c91a-3900713){target=_blank .md-button .md-button--primary } ;
-
-    - Projets, objectif ["Fête de la science"](./fete_de_la_science) le 7 octobre... -> ==**Compléter** votre TODO liste, **prioriser** les tâches et **vérifier** leur faisabilité technique.==
-      
-    - Activités par spécialité [SI](https://ericecmorlaix.github.io/TSI_2025-2026/){target=_blank} ou [NSI](https://ericecmorlaix.github.io/TNSI_2025-2026/){target=_blank}.
-
-=== "TRAVAIL À FAIRE"
-
-    - Poursuivre les travaux engagés...
 ***
 
 ## Vie de classe du 17/09
 
 - [Orientation](./orientation)
 
+-->
+
 ***
-## Séance SI-NSI du 12/09
+## Séance SI-NSI du 16/10
 
 === "CONTENU DE SÉANCE"
     
-    - **Découvrir** le fonctionnement des réseaux informatiques par la pratique :
-        - Retour sur [Network-TP1](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){ .md-button .md-button--primary } [Capytale e7c0-3876579](https://capytale2.ac-paris.fr/web/c/e7c0-3876579){target=_blank .md-button .md-button--primary } ;
-        - Mise en oeuvre de [Network-TP2](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP2.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP2.ipynb){ .md-button .md-button--primary } [Capytale c91a-3900713](https://capytale2.ac-paris.fr/web/c/c91a-3900713){target=_blank .md-button .md-button--primary } ;
+    - Evaluation écrite par spécialité ;
 
-
-    - Projets, objectif ["Fête de la science"](./fete_de_la_science) le 7 octobre... -> ==**Compléter** votre TODO liste, **prioriser** les tâches et **vérifier** leur faisabilité technique.==
+    - **Réaliser** un bilan personnel sur [Capytale n° `d41d-7688068`](https://capytale2.ac-paris.fr/web/c/d41d-7688068){target=_blank} du projet ["Fête de la science"](./fete_de_la_science) et **énumérer** des suites possibles en projet support pour votre Grand Oral...
       
     - Activités par spécialité [SI](https://ericecmorlaix.github.io/TSI_2025-2026/){target=_blank} ou [NSI](https://ericecmorlaix.github.io/TNSI_2025-2026/){target=_blank}.
 
 === "TRAVAIL À FAIRE"
 
-    - Poursuivre tous les travaux engagés...
--->
+    - **Finir** et **rendre** tous les travaux engagés...
+
 ***
+
 ## Séances SI-NSI des 16 et 18/09
 
 === "CONTENU DE SÉANCE"

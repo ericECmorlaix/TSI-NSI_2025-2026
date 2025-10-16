@@ -66,6 +66,8 @@ Développer petit à petit de façon modulaire, par fonctionnalité...
 ### Mécanique
 
 - [Machine de Turing](https://interstices.info/comment-fonctionne-une-machine-de-turing/){target=_blank} ;
+- [Une machine de Turing... avec des Lego](https://members.loria.fr/MDuflot/files/med/turing.html){target=_blank} ;
+- [Machine de Turing... en Python](https://codex.forge.apps.education.fr/en_travaux/machine_turing/#machine-de-turing-1){target=_blank} ;
 - [https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/turing-machine/](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/turing-machine/){target=_blank} ;
 - [https://projects-raspberry.com/section-3-building-the-turing-machine/](https://projects-raspberry.com/section-3-building-the-turing-machine/){target=_blank} ;
 - [Minecraft: les portes logiques de Redstone expliquées](https://fr.techtribune.net/jeux-videos/minecraft-les-portes-logiques-de-redstone-expliquees/390019/){target=_blank} ;
