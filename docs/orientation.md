@@ -49,7 +49,7 @@ Accès direct à [l'onglet parcours avenir](https://cdi-lycee.ecmorlaix.fr/orien
  
 ## Forum en ligne
 
-C'est pour bientôt...
+Ca y est, l'info est [**là**]**(./ForumEnLigne.pdf)
 <!--
 Tous les lundis d'octobre, novembre, décembre et janvier entre 18h30 et 19h, présentation en visio sur le compte TEAMS une filière post bac (faite par un étudiant, en général un ancien du lycée).
 

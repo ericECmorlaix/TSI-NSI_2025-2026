@@ -289,14 +289,16 @@
 - **Faire** la campagne de rentrée sur [PIX avec le code `MDTWKP783`](https://app.pix.fr/campagnes/MDTWKP783){target=_blank} ;
 
 ***
-
+-->
 ***
 
-## Vie de classe du 17/09
+## Vie de classe du 03/11
 
-- [Orientation](./orientation)
+- **Inscription au bac** et attestation de recensement ou de JDC ;
+- [Orientation](./orientation) ;
+- [PIX](https://pix.fr/){target=_blank}.
 
--->
+
 
 ***
 ## Séance SI-NSI du 16/10
