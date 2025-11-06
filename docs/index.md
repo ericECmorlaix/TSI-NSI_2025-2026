@@ -267,29 +267,21 @@
 
 - [Orientation - Diaporama de présentation ParcourSup 2025](./pdf/PPT-_Parcoursup-2025.pdf){target=_blank}
 
-    
+-->   
 ***
-## Séance SI-NSI des 06 et 07/11
+## Séance SI-NSI du 06/11
 
 === "CONTENU DE SÉANCE"
     
+    - **Réaliser** un bilan personnel sur [Capytale n° `d41d-7688068`](https://capytale2.ac-paris.fr/web/c/d41d-7688068){target=_blank} du projet ["Fête de la science"](./fete_de_la_science) et **énumérer** des suites possibles en projet support pour votre Grand Oral...
+      
     - Activités par spécialité [SI](https://ericecmorlaix.github.io/TSI_2025-2026/){target=_blank} ou [NSI](https://ericecmorlaix.github.io/TNSI_2025-2026/){target=_blank}.
 
 === "TRAVAIL À FAIRE"
 
-    - Poursuivre les travaux engagés...
+    - **Finir** et **rendre** tous les travaux engagés...
 
-***
-## Vie de classe du 01/10
 
-- [Orientation](./orientation), demandez le programme :
-    - Lancement du forum en ligne le lundi 07/10 (PASS pour cette première session), _mail d'inscription avenir mercredi ou jeudi_.
-    - Le mardi 15/10 sur l'heure de classe : des représentants de l'armée viendront présenter les formations qu'ils offrent aux futurs bacheliers, _mail d'inscription avenir..._
-
-- **Faire** la campagne de rentrée sur [PIX avec le code `MDTWKP783`](https://app.pix.fr/campagnes/MDTWKP783){target=_blank} ;
-
-***
--->
 ***
 
 ## Vie de classe du 03/11
