@@ -269,7 +269,7 @@
 
 -->   
 ***
-## Séance SI-NSI du 06/11
+## Séances SI-NSI des 06 et 13/11
 
 === "CONTENU DE SÉANCE"
     
