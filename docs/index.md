@@ -266,8 +266,26 @@
 ## Vie de classe du 07/01
 
 - [Orientation - Diaporama de présentation ParcourSup 2025](./pdf/PPT-_Parcoursup-2025.pdf){target=_blank}
+--> 
+***
+## Séances SI-NSI du 02/12
 
--->   
+=== "CONTENU DE SÉANCE"
+    
+    - Activités par spécialité [SI](https://ericecmorlaix.github.io/TSI_2025-2026/){target=_blank} ou [NSI](https://ericecmorlaix.github.io/TNSI_2025-2026/){target=_blank}.
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** et **rendre** tous les travaux engagés...
+
+***
+
+## Vie de classe du 01/12
+
+- Restitution du conseil de classe du premier trimestre ;
+- [Orientation](./orientation) ;
+
+  
 ***
 ## Séances SI-NSI des 06 et 13/11
 
